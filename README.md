@@ -195,6 +195,8 @@ launchctl list | grep openclaw
 ### 网页面板
 
 打开浏览器访问 `http://localhost:8765`，您会看到：
+<img width="1100" height="876" alt="image" src="https://github.com/user-attachments/assets/804010a7-1da5-4746-a8bd-08cc708ce111" />
+
 
 #### 安全评分
 
